@@ -22,7 +22,7 @@ Zakon odkrywa możliwości sieci i próbuje chronić dolinę przed kolejną kata
 | --- | --- | --- |
 | 1 · Cysterna i Rudna Brama | Zawał, znaki, mapa, wyjście sztolnią i finał u Eliry. Rozegrana. [Stan](stan-kampanii.md) | **3, potwierdzony** |
 | 2 · Ślady w ciszy | Elira, Monastyr i Szyb Północny w kolejności wybranej przez graczy. Próg, wzorce i projekt rezonatora. [Najnowszy plan](sesja-02.md) | 3, według tempa gry |
-| 3 · Kompas i pierwszy węzeł | Warsztat, budowa przyrządu i Kompasu Głębi, próg oraz pierwszy obieg Wody | 4 po opanowaniu pierwszego węzła |
+| 3 · Kompas i pierwszy węzeł | Warsztat, budowa przyrządu i Kompasu Głębi, próg oraz pierwszy obieg Wody. [Roboczy plan](sesja-03.md) | 4 po opanowaniu pierwszego węzła |
 | 4 · Las Ilyr i Soczewka | Ślady oddziaływania sieci w lesie, pomoc Amanity i rekonstrukcja Soczewki Zarodnikowej | 4 |
 | 5 · Węzeł Światła | Ruiny pod Ilyrem, odczyt oznaczeń i próba właściwego sygnału | 4 |
 | 6 · Węzeł Dźwięku | Zestrojenie odpowiedzi i rekonstrukcja pełnego Klucza Rezonansu | 5 |

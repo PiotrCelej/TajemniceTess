@@ -53,6 +53,9 @@ Iven ma osobne skrócone statystyki pościgu i obrony (KP 12, PW 9) w Księdze M
 
 ## Przygotowanie plików
 
+- [Opisy głównych lokacji](../materialy/sesja-02/opisy-lokacji-glownych.md) i [opisy lokacji pobocznych](../materialy/sesja-02/opisy-lokacji-pobocznych.md) zawierają akapity do odczytania graczom. Nagłówki i uwagi MG podają moment ich użycia.
+- [Pięć wątków pobocznych dla MG](../materialy/sesja-02/watki-poboczne.md) opisuje punkty wejścia, zadania, testy, możliwe finały i statystyki NPC.
+- [Rezonator progu](../materialy/sesja-02/rezonator-progu.md) zawiera opis i szkic do pokazania po zaprojektowaniu przyrządu oraz instrukcję dla MG na tę lub późniejszą sesję.
 - [A4 ZIP](../materialy/sesja-02/Tajemnice_Tess_Sesja_2_A4.zip) zawiera sześć PDF-ów. Do druku map bitewnych użyj wybranych par stron w skali 100%, jednostronnie. Sprawdź odcinek wzorcowy 25,4 mm. Arena A korzysta z pustego wariantu rozstajów z paczki Inkarnate.
 - [Inkarnate ZIP](../materialy/sesja-02/Tajemnice_Tess_Sesja_2_Inkarnate.zip) zawiera PNG do importu jako podkłady i stemple, wersje z siatką i bez niej, czyste plany, nakładki MG oraz ruchomy wóz i żetony. Instrukcja startowa i legenda są w środku. Osobno dostępne są [plan drogi P1](../materialy/sesja-02/inkarnate/TT2_P1_Droga_z_Rudnej_Bramy_gracze.png) i [arena R bez siatki](../materialy/sesja-02/inkarnate/TT2_R_Rozstaje_z_wozem_bez_siatki.png).
 - [Ilustracja Progu Rezonansu](../materialy/sesja-02/Prog_Rezonansu.png) pokazuje miejsce z D6.

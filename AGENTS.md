@@ -8,3 +8,4 @@
 6. Zachowuj osobne wersje dla graczy i MG. Mapa graczy pokazuje glify i bursztynowe wyjście, a interpretację glifów zawiera klucz MG. Sposób ujawniania wskazówek opieraj na wiedzy postaci i przebiegu gry.
 7. Używaj pisowni „Orven Marr”, „Tessaranie”, „Nhal’Tess” i „Monastyr Trzech Źródeł”. W cytatach i zachowanych plikach źródłowych mogą występować warianty zapisu.
 8. Gdy zmieniasz scenariusz, zaktualizuj powiązane mapy, handouty i indeks materiałów. Panel pochodzi z wersji 3 i jego plan sesji 2 jest wcześniejszy od poprawionego pakietu.
+9. Zapisuj wszystkie wyniki pracy, również analizy, plany, propozycje i wyniki pracy podagentów, w plikach Markdown (`.md`) w odpowiednich folderach repozytorium. Uzupełnij istniejące materiały albo utwórz pliki dla nowych wyników. Materiały w innych formatach opisz i podlinkuj w Markdownie. Przed zakończeniem zadania sprawdź, czy wyniki zostały zapisane, i wskaż ich pliki w odpowiedzi.
