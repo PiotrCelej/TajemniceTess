@@ -2,7 +2,7 @@
 
 „Pieśń Podkorzenia” to kampania D&D 5e (2014) dla dwojga bohaterów, Kaela Veyrana i Mossa. Rudna Brama jest bazą wypadową w Dolinie Veyrun. Wszystkie sesje odbywają się przy stole z mistrzem gry.
 
-**Ostatni potwierdzony stan** to koniec sesji 1. Oboje bohaterowie mają poziom 3. Najbliższe spotkanie, „Ślady w ciszy”, zaczyna się od rozmowy z Elirą Voss.
+**Ostatni potwierdzony stan** to koniec sesji 1. Obaj bohaterowie mają poziom 3. Najbliższe spotkanie, „Ślady w ciszy”, zaczyna się od rozmowy z Elirą Voss.
 
 ## Dokumentacja
 

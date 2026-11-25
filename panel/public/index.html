@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rudna Brama · Kronika prowadzącego</title>
+  <meta name="description" content="Postęp kampanii Tajemnice Tess, sceny, otwarte wątki i notatki prowadzącego.">
+  <link rel="stylesheet" href="/style.css">
+  <script defer src="/data.js"></script>
+  <script defer src="/model.js"></script>
+  <script defer src="/sync.js"></script>
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <aside>
+    <div class="brand"><span class="sigil" aria-hidden="true">◇</span><div>RUDNA BRAMA<small>KRONIKA PROWADZĄCEGO</small></div></div>
+    <div class="campaign">TAJEMNICE TESS<span>Pieśń Podkorzenia</span></div>
+    <nav id="nav" aria-label="Panel kampanii"></nav>
+    <div class="aside-bottom">
+      <div>D&amp;D 5e · zasady 2014</div>
+      <div class="sync-state"><span class="dot" aria-hidden="true"></span><span id="saveinfo" role="status">Łączenie z serwerem…</span></div>
+      <button id="retry" type="button" hidden>Ponów synchronizację</button>
+      <div class="backups">
+        <button id="export" type="button" disabled>Eksport zapisu</button>
+        <button id="import-button" type="button" disabled>Import zapisu</button>
+        <input id="import" type="file" accept=".json,application/json" hidden>
+      </div>
+    </div>
+  </aside>
+  <div class="workspace">
+    <header>
+      <div class="crumb">Tajemnice Tess <span>/</span> Rudna Brama</div>
+      <div class="tools">
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" placeholder="Szukaj NPC, lokacji, zagadki…" aria-label="Szukaj w kampanii" disabled><kbd>/</kbd></label>
+        <button id="mode" type="button" disabled>Widok graczy</button>
+      </div>
+    </header>
+    <div id="results" hidden></div>
+    <main id="main" aria-label="Treść kampanii">
+      <div class="panel empty">Wczytywanie postępu kampanii…</div>
+    </main>
+  </div>
+  <div id="toast" role="status"></div>
+</body>
+</html>
